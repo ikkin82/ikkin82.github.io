@@ -1,2 +1,0 @@
-# Valizant-Wordpress
-Valizant.com
